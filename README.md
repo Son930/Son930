@@ -12,41 +12,28 @@ I'm a passionate software developer with commercial development experience and a
 🥋 Fun fact: Blue belt in Brazilian Jiu-Jitsu
 🛠️ Technical Skills
 Languages
-[Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white
-https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 Web Technologies & Frameworks
-[Show Image
-Show Image
-Show Image
-Show Image
-Show Image](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white
-https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white
-https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
-https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
-)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 Game Development
-[Show Image](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 Databases & Tools
-[Show Image
-Show Image
-Show Image
-Show Image](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 Specialized
 Machine Learning (Scikit-Learn) | ROS | Agile/Scrum | REST APIs | OOP | Data Structures & Algorithms
