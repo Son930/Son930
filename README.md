@@ -84,9 +84,9 @@ Show Image
 Cisco IT Essentials
 Cisco CCNA: Introduction to Networks
 📫 Let's Connect
-Show Image
-Show Image
-Show Image
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-sondhi)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://sunny-sondhi.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sunny.sondhi93@gmail.com)
 
 💡 "Always learning, always building, always improving."
 
