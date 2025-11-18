@@ -55,54 +55,47 @@ Specialized
 Machine Learning (Scikit-Learn) | ROS | Agile/Scrum | REST APIs | OOP | Data Structures & Algorithms
 
 💼 Professional Experience
-React Developer @ Inco Digital (Aug 2024 - Feb 2025)
+1.React Developer @ Inco Digital (Aug 2024 - Feb 2025)
+       Developed web applications using Laravel, React.js, and Node.js
+       Built RESTful APIs and MySQL database solutions
+       Resolved 50+ technical issues across frontend and backend systems
+       Collaborated in Agile/Scrum environment with code reviews and sprint planning
 
-Developed web applications using Laravel, React.js, and Node.js
-Built RESTful APIs and MySQL database solutions
-Resolved 50+ technical issues across frontend and backend systems
-Collaborated in Agile/Scrum environment with code reviews and sprint planning
-Independent Software Developer (Mar 2025 - Present)
+2.Independent Software Developer (Mar 2025 - Present)
 
-Building diverse portfolio of game development and ML projects
-Focusing on software architecture, design patterns, and performance optimization
 🎮 Featured Projects
 Market AI - Algorithmic Trading System
 Python | Scikit-Learn | MT5 API
-
 Autonomous trading system with 85% accuracy in back-tested scenarios
 Real-time data processing using advanced algorithms
 Automated ML model retraining pipeline
+
 The Gilded Bottle - E-commerce Platform
 Laravel | PHP | JavaScript | MySQL
-
 E-commerce application with secure payment processing
 RESTful API backend with authentication
 Efficient database schema for complex product relationships
+
 Lisa's Adventures - 3D RPG Game
 Unity | C#
-
 Custom entity-component-system architecture
 AI pathfinding algorithms and behavior state machines
 Optimized to 60 FPS through performance profiling
 Grade: 92/100
+
 Robot Receptionist - Final Year Project
 ROS1/ROS2 | Python | C++ | Docker
-
 Bridged ROS1 to ROS2 using ICE framework
 Voice command navigation system
 Autonomous navigation with ROS Navigation Stack
-📊 GitHub Stats
-Show Image
-
-Show Image
 
 🏆 Certifications
 Cisco IT Essentials
 Cisco CCNA: Introduction to Networks
+
 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-sondhi)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://sunny-sondhi.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sunny.sondhi93@gmail.com)
 
-💡 "Always learning, always building, always improving."
 
